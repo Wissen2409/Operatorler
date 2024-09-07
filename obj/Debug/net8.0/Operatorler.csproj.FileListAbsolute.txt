@@ -1,0 +1,14 @@
+/Users/emrahelis/Desktop/Operatorler/bin/Debug/net8.0/Operatorler
+/Users/emrahelis/Desktop/Operatorler/bin/Debug/net8.0/Operatorler.deps.json
+/Users/emrahelis/Desktop/Operatorler/bin/Debug/net8.0/Operatorler.runtimeconfig.json
+/Users/emrahelis/Desktop/Operatorler/bin/Debug/net8.0/Operatorler.dll
+/Users/emrahelis/Desktop/Operatorler/bin/Debug/net8.0/Operatorler.pdb
+/Users/emrahelis/Desktop/Operatorler/obj/Debug/net8.0/Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Desktop/Operatorler/obj/Debug/net8.0/Operatorler.AssemblyInfoInputs.cache
+/Users/emrahelis/Desktop/Operatorler/obj/Debug/net8.0/Operatorler.AssemblyInfo.cs
+/Users/emrahelis/Desktop/Operatorler/obj/Debug/net8.0/Operatorler.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Desktop/Operatorler/obj/Debug/net8.0/Operatorler.dll
+/Users/emrahelis/Desktop/Operatorler/obj/Debug/net8.0/refint/Operatorler.dll
+/Users/emrahelis/Desktop/Operatorler/obj/Debug/net8.0/Operatorler.pdb
+/Users/emrahelis/Desktop/Operatorler/obj/Debug/net8.0/Operatorler.genruntimeconfig.cache
+/Users/emrahelis/Desktop/Operatorler/obj/Debug/net8.0/ref/Operatorler.dll
